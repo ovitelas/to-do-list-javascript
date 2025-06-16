@@ -44,5 +44,5 @@ Todo list application featuring:
 
 Victor Hugo B. Soares
 📧 E-mail - contatovictorhugosoares@gmail.com
-🌐 LinkedIn
+🌐 [LinkedIn](https://linkedin.com/in/ovitelas) 
 📞 Telefone(WhatsApp) +55 11 964628356
